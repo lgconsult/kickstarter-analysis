@@ -10,7 +10,7 @@ The purpose of this analysis is to determine strategies that indicate a successf
 
 ### Analysis of Outcomes Based on Launch Date
 To analyze outcomes based on launch date, I created a pivot table where we can filter by campaign category and year, that displays the outcomes of theater campaigns by month of launch date. 
-![Theater_Outcomes_vs_Launch](lgconsult/kickstarter-analysis/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](https://github.com/lgconsult/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 From the line graph produced we can see the results. The months where the most successful campaigns were launched were in late spring to summer including May with 111 successful campaigns, June with 100, and July with 87. August had one more successful campaign than April, at 72 and 71 respectively, and considering April-August together, this indicates a seasonal trend. The winter and especially fall months see a significant decline of successful campaigns. Failed and canceled campaigns seem to follow a more steady trend throughout the year. Failed campaigns range between 52 and 31 a month, while canceled campaigns range from 7 to 1. 
 I have experience making pivot tables, and I don't find them too difficult, while I don't usually end up with the correct chart on the first try, I always experiment with the data points in different fields to produce the correct result.
 ### Analysis of Outcomes Based on Goals
